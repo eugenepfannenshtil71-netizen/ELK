@@ -6,7 +6,7 @@
 Приведите скриншот команды 'curl -X GET 'localhost:9200/_cluster/health?pretty', сделанной на сервере с установленным Elasticsearch. Где будет виден нестандартный cluster_name.
 
 Ответ:
-![png]()
+![png](https://github.com/eugenepfannenshtil71-netizen/ELK/blob/main/1.png)
 ---
 # Задание 2. Kibana
 
@@ -14,7 +14,7 @@
 Приведите скриншот интерфейса Kibana на странице http://<ip вашего сервера>:5601/app/dev_tools#/console, где будет выполнен запрос GET /_cluster/health?pretty.
 
 Ответ:
-![png]()
+![png](https://github.com/eugenepfannenshtil71-netizen/ELK/blob/main/2.png)
 ---
 # Задание 3. Logstash
 
@@ -22,7 +22,7 @@
 Приведите скриншот интерфейса Kibana, на котором видны логи Nginx.
 
 Ответ:
-![png]()
+![png](https://github.com/eugenepfannenshtil71-netizen/ELK/blob/main/3.png)
 ---
 # Задание 4. Filebeat.
 
@@ -30,5 +30,5 @@
 Приведите скриншот интерфейса Kibana, на котором видны логи Nginx, которые были отправлены через Filebeat.
 
 Ответ:
-![png]()
+![png](https://github.com/eugenepfannenshtil71-netizen/ELK/blob/main/4.png)
 ---
